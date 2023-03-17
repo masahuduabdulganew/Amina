@@ -1,0 +1,33 @@
+*{
+    margin:0;
+}
+.dp{
+    margin: 50px;
+}
+.btn{
+    margin: 20px;
+    border: 1px solid royalblue;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aqua;
+    color: brown;
+    cursor: pointer;
+}
+    .nav{
+        display:flex;
+        justify-content:space-between;
+        list-style: none;
+    }
+        
+    
+   
+}
+    
+    
+
+   
+
+    
+
+
+
